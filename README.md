@@ -21,4 +21,4 @@ Launches the test runner in the interactive watch mode.
   - I would have liked to write project in Typescript. As of now using Typescript would slow me down because I don't use it daily.
   - Add loading UI for pokemon images
   - make the Pokemon list UI better visually i.e. adding pokemon photos
-- Sort Pokemon list alphabetically for bettersearch experience for the users
+- Sort Pokemon list alphabetically for better search experience for the users
