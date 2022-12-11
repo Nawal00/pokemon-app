@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given the \`PokemonCard\` component should render successfully 1`] = `
+<div>
+  <div
+    class="pokemon-card-wrapper"
+    data-testid="pokemon-card-wrapper"
+  >
+    <div
+      class="pokemon-card"
+    >
+      <div>
+        <h2>
+          PIKACHU
+        </h2>
+        <button
+          class="close-btn"
+          data-testid="close-btn"
+        >
+          x
+        </button>
+      </div>
+      <img
+        alt="a pokemon character"
+        src="/test.svg"
+      />
+      <p>
+        <b>
+          Height:
+        </b>
+         
+        30
+         (decimetre)
+      </p>
+      <p>
+        <b>
+          Weight:
+        </b>
+         
+        99
+         (hectogram)
+      </p>
+      <p>
+        <b>
+          Abilities:
+        </b>
+        <button>
+          solar-flaire
+        </button>
+      </p>
+      <p>
+        <b>
+          Types:
+        </b>
+        <button>
+          wild
+        </button>
+      </p>
+    </div>
+  </div>
+</div>
+`;

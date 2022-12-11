@@ -1,0 +1,31 @@
+.pokemon-card-wrapper {
+  text-align: center;
+  flex-basis: 50%;
+}
+
+.pokemon-card {
+  background-color: #a0d4e4;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.pokemon-card > div {
+  position: relative;
+}
+
+.pokemon-card .close-btn {
+  position: absolute;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  top: -20px;
+  right: 0px;
+}
+
+.pokemon-card button {
+  background-color: #4865c2;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 5px;
+  color: #ffffff;
+}

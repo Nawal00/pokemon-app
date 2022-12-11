@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given the \`App\` component should render successfully 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1>
+      Generation One Pokemons
+    </h1>
+    <div
+      class="container"
+    >
+      <div
+        class="pokemon-list-wrapper"
+      />
+      <div
+        class="info-message"
+      >
+        <h3>
+          Click on the pokemon name to view pokemon info
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;

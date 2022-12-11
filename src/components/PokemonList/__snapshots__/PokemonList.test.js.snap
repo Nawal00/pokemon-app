@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given the \`PokemonList\` component should render successfully 1`] = `
+<div>
+  <div
+    class="pokemon-list"
+    role="list"
+  >
+    <h3>
+      pikachu
+    </h3>
+  </div>
+</div>
+`;
