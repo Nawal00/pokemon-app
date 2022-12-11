@@ -4,16 +4,15 @@
 
 .App > h1 {
   text-align: center;
-  padding: 60px;
-  margin: 0 0 5rem 0;
+  padding: 50px;
+  margin: 0 0 3.5rem 0;
   color: #ffffff;
   background-color: #4865c2;
 }
 
 .container {
-  margin: auto;
+  margin: 0 0.5rem;
   display: flex;
-  width: 90%;
 }
 
 .info-message {
@@ -28,8 +27,8 @@
 .pokemon-list-wrapper {
   flex-basis: 50%;
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 1.5rem;
   grid-template-columns: 50% 50%;
   overflow-y: auto;
-  max-height: 100vh;
+  max-height: 68vh;
 }
